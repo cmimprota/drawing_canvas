@@ -3,7 +3,9 @@
 Simple Java application of a drawing canvas.
 
 ## How to run
-### java -cp target/classes com.cmimprota.app.App 
+```
+java -cp target/classes com.cmimprota.app.App 
+```
 
 ## Requirements
 JavaSE-1.7, Maven, JUnit 4.
