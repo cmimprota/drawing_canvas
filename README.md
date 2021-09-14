@@ -9,7 +9,7 @@ Simple Java application of a drawing canvas.
 JavaSE-1.7, Maven, JUnit 4.
 
 ## Usage
-
+```
 Command 		Description
 C w h           Create a new canvas of width w and height h.
 L x1 y1 x2 y2   Create a new line of 'x' from (x1,y1) to (x2,y2). Only supports 
@@ -19,3 +19,4 @@ R x1 y1 x2 y2   Create a new rectangle, with (x1,y1) being the upper left corner
 B x y c         Fill the entire area around (x,y) with "colour" c.
                 Same as that of the "bucket fill" tool in paint programs.
 Q               Quit.
+```
